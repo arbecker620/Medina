@@ -1,0 +1,23 @@
+{
+    "Credentials": {
+        "Cloud":"Google",
+        "API_Key": "jdndknd",
+        "Ten_Id": "dkmd"
+
+
+    },
+    "Sequence": [ {
+        "Provider": "GCP",
+        "Number": 1,
+        "Path": "yada",
+        "API_Name": "yada"
+    }
+
+
+
+
+
+    ]
+
+
+}
